@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details":[
+        {
+            "appID":"CUSM64PBYA.com.upvio.app",
+            "paths": ["/scans/*"]
+        }
+    ]
+  }
+}
